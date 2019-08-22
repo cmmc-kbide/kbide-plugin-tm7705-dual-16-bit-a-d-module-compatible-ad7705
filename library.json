@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-tm7705-dual-16-bit-a-d-module-compatible-ad7705",
+  "title": "tm7705-dual-16-bit-a-d-module-compatible-ad7705",
+  "keywords": "tm7705-dual-16-bit-a-d-module-compatible-ad7705, esp32, esp8266, arduino",
+  "description": "tm7705-dual-16-bit-a-d-module-compatible-ad7705 plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-tm7705-dual-16-bit-a-d-module-compatible-ad7705/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-tm7705-dual-16-bit-a-d-module-compatible-ad7705/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
